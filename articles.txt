@@ -1,0 +1,3 @@
+https://stackoverflow.com/questions/43823696/environment-variables-in-azure-arm-templates
+https://blog.olandese.nl/2017/09/20/get-cognitive-services-keys-and-endpoint-in-an-arm-template/
+https://stackoverflow.com/questions/2157554/how-to-handle-command-line-arguments-in-powershell

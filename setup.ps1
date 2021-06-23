@@ -23,4 +23,4 @@ pip install azure-cognitiveservices-vision-computervision
 cd C:\
 mkdir code
 cd code
-git clone https://github.com/MicrosoftLearning/mslearn-ai900.git
+git clone "https://github.com/DeltaXIS/ai-900.git"
