@@ -19,6 +19,7 @@ Update-SessionEnvironment
 python -m pip install -U pip
 
 pip install azure-cognitiveservices-vision-computervision
+pip install azure-cognitiveservices-vision-face
 
 cd C:\
 mkdir code
