@@ -6,6 +6,7 @@ import os
 cog_endpoint = os.environ.get('azurecognitiveservicesendpoint')
 cog_key = os.environ.get('azurecognitiveserviceskey')
 
+
 # Change the URL between the quotes below to run your own images!
 image_to_analyze = "https://media.sciencephoto.com/f0/03/53/55/f0035355-800px-wm.jpg"
 

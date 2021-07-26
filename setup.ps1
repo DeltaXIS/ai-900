@@ -20,6 +20,7 @@ python -m pip install -U pip
 
 pip install azure-cognitiveservices-vision-computervision
 pip install azure-cognitiveservices-vision-face
+pip install Pillow
 
 cd C:\
 mkdir code
